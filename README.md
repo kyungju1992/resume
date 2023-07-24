@@ -34,7 +34,7 @@ Company | Entry Date | Leave Date | Form
 
 
 ## [2. Introduction](https://github.com/kyungju1992/resume/blob/master/STORY.md#2-introduction)
-### [2.1. 개발경험 중 좋았던 경험과 아쉬웠던 경험](https://github.com/kyungju1992/resume/blob/master/STORY.md#21-experiences)
+### [2.1. 개발경험 중 좋았던 경험과 아쉬웠던 경험](https://github.com/kyungju1992/resume/blob/master/STORY.md#21-develope-experiences)
 
 
 
