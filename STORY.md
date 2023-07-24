@@ -6,7 +6,7 @@
     + [1.3. Skills](#13-skills)
     + [1.4. Experiences](#14-experiences)
   * [**2. Introduction**](#2-introduction)
-    + [2.1. 개발경험 중 좋았던 경험과 아쉬웠던 경험](#21-experiences)
+    + [2.1. 개발경험 중 좋았던 경험과 아쉬웠던 경험](#21-develope-experiences)
   * [**3. Projects**](#3-projects)
     + [3.1. GS리테일 Projets](#31-GSprojets)
       - [3.1.1. 우리동네GS 결제수단 고도화](#311-WDG)
