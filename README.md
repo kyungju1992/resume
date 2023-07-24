@@ -40,7 +40,7 @@ Company | Entry Date | Leave Date | Form
 
 
 ## [3. Projects](https://github.com/kyungju1992/resume/blob/master/STORY.md#3-projects)
-### [3.1. GS 리테일 Projects](https://github.com/kyungju1992/resume/blob/master/STORY.md#31-projects)
+### [3.1. GS 리테일 Projects](https://github.com/kyungju1992/resume/blob/master/STORY.md#31-GSprojects)
 Project            | Description
 -------------------|-----------------------------
 [우리동네GS 결제수단 고도화](https://github.com/kyungju1992/resume/blob/master/STORY.md#311-WDG) | 우리동네GS 바로배달 서비스 오프라인 판촉을 온라인 서비스에도 사용할 수 있도록 적용
