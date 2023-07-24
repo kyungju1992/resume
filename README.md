@@ -1,15 +1,14 @@
-# Resume of [kyungju1992](https://github.com/kyungju1992)
-> 이 문서는 축약 이력서로써, 각 단원의 링크를 클릭하면, 상세 페이지로 이동합니다.
+# Resume of [kyungju1992]
 
-## [1. Outline](https://github.com/kyungju1992/resume/blob/master/STORY.md#1-outline)
-### [1.1. Profile](https://github.com/kyungju1992/resume/blob/master/STORY.md#11-outline)
+## [1. Outline]
+### [1.1. Profile]
 이름: 김경주
 
   - 생년월일: 1992-09-12
   - 연락처: 010-3098-9788
   - Github: https://github.com/kyungju1992
 
-### [1.2. Education](https://github.com/kyungju1992/resume/blob/master/STORY.md#12-education)
+### [1.2. Education]
 분당고등학교, 2008-03 ~ 2011-02
 
 명지대학교, 2012-03 ~ 2016-02
@@ -34,21 +33,9 @@ Company | Entry Date | Leave Date | Form
 [GS ITM](https://github.com/kyungju1992/resume/blob/master/STORY.md#43-hiswill)               | 2022-01    | 재직중     | 정규직
 
 
-## [2. Introduction](https://github.com/kyungju1992/resume/blob/master/STORY.md#2-introduction)
-### [2.1. For a lifetime](https://github.com/kyungju1992/resume/blob/master/STORY.md#21-for-a-lifetime)
+## [2. Introduction]
+### [2.1. 개발경험 중 좋았던 경험과 아쉬웠던 경험](https://github.com/kyungju1992/resume/blob/master/STORY.md#21-for-a-lifetime)
 1998 년 이래로 프로그래밍을 시작, 25 년을 한결같이 매진해왔습니다.
-
-### [2.2. Self Improvement](https://github.com/kyungju1992/resume/blob/master/STORY.md#22-self-improvement)
-회사에서 근무하는 동안, 새로운 라이브러리에 대한 필요를 느끼거나 혹은 기존 라이브러리에서 불편함을 느끼면, 집으로 돌아와 이를 오픈소스 프로젝트로 제작해보고는 합니다.
-
-### [2.3. Standardization](https://github.com/kyungju1992/resume/blob/master/STORY.md#23-standardization)
-25 년 간 개발을 공부해오면서, 표준화의 중요성을 절실히 느껴, 이를 중시합니다.
-
-### [2.4. Documentation](https://github.com/kyungju1992/resume/blob/master/STORY.md#24-documentation)
-프로젝트를 진행하면서 이슈사항들에 대하여 꾸준히 문서로 정리하며, 상용 프로젝트를 시작한 이래, 일일 업무일지를 꾸준히 작성해왔습니다.
-
-### [2.5. Test Driven Development](https://github.com/kyungju1992/resume/blob/master/STORY.md#25-test-driven-development)
-저는 개발을 할 때, 표준화만큼이나 TDD 를 철저히 지킴으로써, 늘 안정성을 추구합니다.
 
 
 
