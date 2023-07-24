@@ -8,7 +8,7 @@
   * [**2. Introduction**](#2-introduction)
     + [2.1. 개발경험 중 좋았던 경험과 아쉬웠던 경험](#21-experiences)
   * [**3. Projects**](#3-projects)
-    + [3.1. GS리테일 Projets](#31-projets)
+    + [3.1. GS리테일 Projets](#31-GSprojets)
       - [3.1.1. 우리동네GS 결제수단 고도화](#311-WDG)
 
 
@@ -50,7 +50,7 @@ Company                             | Entry Date | Leave Date | Form
 
 
 ## 2. Introduction
-### 2.1. For a lifetime
+### 2.1. 개발경험 중 좋았던 경험과 아쉬웠던 경험
 저는 11 살에 프로그래밍을 시작하였습니다. 당시 "넷츠고에서 멀티미디어 홈페이지 만들기" 라는 책으로 개발에 입문하여 HTML 로 개인 홈페이지를 만드는 것을 시작으로, Flash 와 Php 를 이용해 올 플래시 홈페이지와 게시판을 만드는 등, 이래저래 홈페이지 만드는 재미에 푹 빠져 있었습니다.
 
 지금 와서 생각해보면 참 간단한 홈페이지에 시시콜콜한 답변형 게시판이었지만, 당시의 저는 코딩을 하다가 막혀서 쩔쩔맬 때가 되면, 그것을 악몽으로 다시 꿀 정도로 고생하기도 했었습니다. 그리고 그렇게 1 년을 고생 고생한 끝에 올 플래시 홈페이지를 완성하던 날, 그 날의 성취감과 환희는 아직도 제 기억에 고스란히 남아있습니다,
@@ -61,7 +61,6 @@ Company                             | Entry Date | Leave Date | Form
 ## 3. Projects
 ### 3.1. GS 리테일 Projets 
 #### 3.1.1. 우리동네GS 결제수단 고도화
-https://github.com/kyungju1992/WDG
 
 Typia 는 세상에서 가장 쉽고 빠른 Runtime Validator 라이브러리입니다. 
 
