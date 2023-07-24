@@ -34,7 +34,7 @@ Company | Entry Date | Leave Date | Form
 
 
 ## [2. Introduction](https://github.com/kyungju1992/resume/blob/master/STORY.md#2-introduction)
-### [2.1. 개발경험 중 좋았던 경험과 아쉬웠던 경험](https://github.com/kyungju1992/resume/blob/master/STORY.md#21-experience)
+### [2.1. 개발경험 중 좋았던 경험과 아쉬웠던 경험](https://github.com/kyungju1992/resume/blob/master/STORY.md#21-experiences)
 
 
 
@@ -43,5 +43,5 @@ Company | Entry Date | Leave Date | Form
 ### [3.1. GS 리테일 Projects](https://github.com/kyungju1992/resume/blob/master/STORY.md#31-projects)
 Project            | Description
 -------------------|-----------------------------
-[우리동네GS 결제수단 고도화](https://github.com/kyungju1992/resume/blob/master/STORY.md#311-GS리테일) | 우리동네GS 바로배달 서비스 오프라인 판촉을 온라인 서비스에도 사용할 수 있도록 적용
+[우리동네GS 결제수단 고도화](https://github.com/kyungju1992/resume/blob/master/STORY.md#311-WDG) | 우리동네GS 바로배달 서비스 오프라인 판촉을 온라인 서비스에도 사용할 수 있도록 적용
 
